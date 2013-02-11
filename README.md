@@ -1,4 +1,4 @@
 mirahculous
 ===========
 
-MVC Web Framework for Mirah
+Content related to the "Culous" MVC Web Framework for Mirah
